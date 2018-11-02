@@ -1,5 +1,9 @@
 # iMessage-flood
 A simple script that floods the iMessage conversation with emojis ;) Created for fun.
+
+## Note
+The scripts not longer work. If time permits, will try to repair them.
+
 ## Requirements
 
 * macOS that has `iMessage.app` with a working iMessage account
